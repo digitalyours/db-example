@@ -1,2 +1,0 @@
-# db-example
-Begin app
